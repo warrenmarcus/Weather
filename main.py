@@ -1,8 +1,7 @@
-import tkinter as tk
+
 from PyQt5 import QtWidgets, QtGui
 from PyQt5.QtWidgets import QApplication, QMainWindow, QInputDialog
 from PyQt5.QtGui import *
-from PyQt5.QtCore import Qt
 import sys
 import requests
 
