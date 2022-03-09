@@ -1,4 +1,4 @@
-# Purpose
+# Description
 
 A weather app using Python and OpenWeatherMap Api.
 
